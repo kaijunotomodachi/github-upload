@@ -1,0 +1,265 @@
+    2020 Hindsight: The wise act of watching your back.
+    Alien: Derogatory Earthside term for someone who lives in space. (see Highrider)
+    AV: Common slang, pronounced "ay-vee", for an aerodyne - an automobile-like flying vehicle powered by ducted jet fans.
+    Beaver or Beav: A derogatory Streetslang for suburbanites from corporate-controlled neighborhoods, based on the 1950s series Leave It to Beaver.
+    Beaverville: A safe suburban neighborhood, mostly populated by mid-level Corporate executives and their families.
+    Bennie: An out-of-towner (see Gaijin)
+    Black Lace or Lace: A designer drug that is a more powerful version of 'Dorph.
+    Boga: (Spanish) Vogue, that which is in-fashion.
+    Bonanza: The location of a big score - for example, an abandoned Corporate facility.
+    Booster or Boostergang: Any member of a gang that effects cyberware, leather clothing, and random violence.
+    Bourgie or Bourgy: Common, low class (adj. from bourgeoisie)
+    Braindance: Virtual reality. A new form of interactive electronic entertainment.
+    Brain Potato: A Braindance addict.
+    'Borg: A full-body cyborg conversion. (see Metalhead)
+    Bridge & Tunnel Crowd: Commuters (see Straphangers)
+    Chilled: To be cool; to be together.
+    Chip: Any type of data recording, usually in the form of small colored slivers of plastic.
+    Chippin' In: To buy cyberware for the first time. To cast your lot with a group. To connect with a machine.
+    Chombatta (Choomba): Neo-Afro-American slang for a friend or a family member.
+    CHOOH² ("choo"): Streetslang for alcohol, as used in vehicle power plants. The vast majority of vehicles in the Time of the Red are fueled by an advanced form of alcohol with a higher burning temperature than normal methanol. (see Hydro)
+    Chop: A credchip.
+    Chopping: The process of cracking a stolen credchip.
+    Chunking: Eating on the run, eating as a secondary activity.
+    Chromer: 21st century heavy metal rock fan.
+    Chromatic Rock: A type of heavy metal characterized by heavy electronics, simple rhythms, and violent lyrics.
+    Combat Drugs: Any one of a series of designer drugs created to increase speed, stamina, and reflexes.
+    Conapt: A condominium apartment in a Corporate Zone.
+    Corpse: A corporate worker, an executive, a corporate. Sleaziness Expert.
+    Culture-Vulture: A media.
+    C-YA: Used as, and sounds like, "See ya," stands for "Cover Your Ass".
+    Cybered-Up: To get as much cyberware implanted as possible before you go over the Edge.
+    Cylon: Corporate security officer.
+    Data Term: A street corner information machine with a screen, NET inputs, and keyboard.
+    Deckhead: A Netrunner.
+    Delta: to leave; to depart
+    Detes: details
+    Dirty: Derogatory term for anything low-tech; as in pencils, paper, walking, etc.
+    'Dorph: Synthetic endorphins, a designer drug that increases healing powers, limits fatigue, and produces a "rush" similar to a second wind.
+    Dorphhead or Dorpher: A drug addict; A type of gang made up of junkies.
+    Downtime: Free time, time off the job.
+    Doughboy/girl: Someone who is wearing too much armor.
+    Draga: (Hungarian) Expensive.
+    Eddies: Phonetic pronunciation of "EDs", meaning Eurodollars.
+    Edge: The fringe of society, where many engage in illegal or semi-legal acts or life-styles.
+    Edgerunner: Someone who lives on the edge.
+    Edgezone: A strip, a gray area, an area of potential coolness; Dinford's Edgezone Hypothesis defines an Edgezone as the area between two other areas that touch.
+    Exotics: A human biosculpted with non-human elements; fur, long ears, fangs, etc.
+    The Face: The Interface. Jacking into the 'Net.
+    Faceman: A sub-fixer in the employ of a boss-fixer, supporting the boss' network.
+    Flatline: To kill. A dead person or thing.
+    Fodder: Derogatory fixer term for solos.
+    Guardians: A self-defense gang; generally peaceful and often cooperative with the police.
+    Gaijin: (from Japanese) Derogatory term for outsider. (see Bennie)
+    Gato: (Spanish) A smooth operator; a cool person — also a fixer.
+    Gewalt: (from German) Violence.
+    Gibson: Strong foresight. A prophet; someone who tells the future. A psychic.
+    Giri: (Japanese) Closest translation is debt or obligation, but the concept entails much more. Often used by Yakuza to describe the basis for their 'honorable' traditions; honor, duty, obligation.
+    Go LEO: To make the trip into Low Earth Orbit.
+    Gomi: (Japanese) Trash, junk, or garbage.
+    Gonk: An idiot, fool, schmuck.
+    Gyro: Small one-or two-person helicopters, used mostly in police work and Corporate strike operations.
+    Handle: A nickname; a working name you are known by on the street.
+    Hard: A flattering term, like cool, hip, tough, etc.
+    Hexed: Having cyberpsychosis — also, being obsessed with the 'Net.
+    Highrider: Earthside term for anyone born, or spend most of their time working, in space. (see Alien)
+    Hound-Tipping: Popular street practice of ambushing and reprogramming police robohounds.
+    Hydro: Streetslang for hydrogen fuel, used to power a sizable number of vehicles in the 2000s. (see CHOOH2)
+    Indie: Independent, self-employed, underground.
+    Info Bro: An information broker.
+    Input: A mechanistic term for a casual lover. Girlfriend. (see Output)
+    Iron: a gun.
+    Output: A mechanistic term for a casual lover. Boyfriend. (see Input)
+    Jack: Money. (see Scratch)
+    Joytoy: A sex worker.
+    Keyboard: Streetslang for a computer interface deck with manual keys. A terminal.
+    Kibble: Cheaply produced food product resembling dry dog or cat food, hence the name.
+    Kleptoid: A thief or prowler.
+    Kombi: A large vehicle capable of carrying cargo and passengers, popularly used by Nomads as housing on the road.
+    Lawman: This Streetslang has come to be synonymous with police officers and any other law enforcers. Originally derived from Captain Max Hammerman's post-war police task force, which was known on The Street as "The Lawmen".
+    Mainline: A term for your partner in a serious, long- term relationship.
+    Metalhead: Someone whose whole body is mechanical, a full 'Borg; derogatory term for a 'borg. (see 'Borg)
+    Midnight Market: Top secret, temporary marketplaces put up by high level Fixers to sell highly illegal goods. Powerful members of the criminal underworld often hold their meetings in private rooms in a Midnight Market.
+    The Metro: The underground. (see The Street)
+    The Mob: An organized crime; any crime syndicate.
+    Mr. Who: Also "The Who", a name for an employer, or someone in higher authority.
+    Mushi: (Japanese) Computer glitch or bug.
+    Netrun: To interface with the 'Net and use it to hack into Data Fortresses. Used also to refer to running the global Network until the advent of the Fourth Corporate War. After the DataKrash, the term came to mean to interface with a NET Architecture and hack into its programs and controls.
+    Neh?: (Japanese) Expression meaning, "Right?", tacked onto the end of a sentence.
+    Night Market: Off-the-grid, temporary marketplaces set up by groups of Fixers with solid connections. In the Time of the Red, a Night Market is the best place to find new cyberware and gear.
+    Organiskaya: (Russian) The Russian Mafia.
+    Paranoid: Someone who has all the facts.
+    Porky: Someone who loves or collects weapons (from porcupine).
+    Polymer One Shot: Any cheap, plastic pistol, usually in the five to nine millimeter range.
+    Posergang: Any group whose members affect a specific look, or bodysculpt job.
+    Preem: Cool, awesome, dope. Comes from the word premium.
+    Proles: The lower class, streetscum (from proletariat).
+    Puppet: Any gang or gang member who hires themselves out to a corporation or criminal organization; A sellout.
+    Ram: Personality (from computer jargon, RAM).
+    Recycling: Environmentally friendly act of killing someone and taking their corpse to a body bank.
+    Reality Junkie: Addicts of virtual reality, braindance, the Net, or video games. (see Vidiot)
+    Rimbo: A gun-toting sex kitten (a rambo/bimbo).
+    Ripperdoc: Surgeon specializing in implanting illegal cyberware.
+    Ronin: (Japanese) A freelance assassin or mercenary. Usually considered untrustworthy. (a type of solo)
+    Rockerboy/girl: A musician or performer who uses his or her art to make political or social statements. Rockerboys are not the same as "Rockstars", who are usually "owned" by recording mediacorps and are apolitical.
+    Sardine: A powered armor trooper.
+    Samurai: (Japanese) A corporate assassin or mercenary, hired to protect corporation property make trikes against other Corporate holdings. (a type of solo)
+    Scratch: Money. (see Jack)
+    Skeleton: All the collected electronic records kept on a person; their electronic identity.
+    Slammit On: To get violent; to attack someone without reason.
+    Smash: A potent form of alcohol made from CHOOH2.
+    Stim: Any type of stimulant narcotic.
+    Straphangers: Commuters. (see Bridge & Tunnel Crowd)
+    The Street: Wherever you live, late at night. The subculture, the underground. (see The Metro)
+    Stuffit: To have sex. Also; to forget something.
+    Svoluch: (Russian) Someone without honor, without Giri, a bastard.
+    SynthCoke or Synth: Synthetic cocaine.
+    Terminal: A computer interface deck with manual keys. A keyboard.
+    Time of the Red: A slang term for the period from 2023 to the late 2040s, taken from the red skies common throughout the world as an aftereffect of the Fourth Corporate War.
+    Tip: A token credchip.
+    Tin Can: A suit of powered armor.
+    Throwbacks: Exotics.
+    Yono: (Korean) A person who is scum, lowlife (from Yonomoseki).
+    Vidiot: A virtual reality or video game addict. (see Reality Junkie)
+    VRcade: Virtual reality, braindance, and vid-game arcade or parlor.
+    Zero: To kill.
+    Zombie: A member of a nihilistic movement dedicated to ending their lives in the most violent and spectacular way possible.
+        The AO: Area of Operations. (See also Sharp End and Injun Country)
+    Bag Job: Surreptitious entry, usually to copy or remove material.
+    Bombshell: Evacuate quickly, run.
+    Close a Contract: Kill, assassinate. Also: neutralize, grease, wax, hose, pop, dust, smoke and vape.
+    COMINT: Communications intelligence.
+    Cut-out: A go-between, used for security in a covert op.
+    Deniable Person: Someone hired so that a government or organization can disavow any knowledge of that person or his activities if something goes wrong later.
+    Dying of the Measles: A killing that is made to look "natural".
+    ELSUR: Electronic Surveillance.
+    Extraction: The removal of a team from its area of operations. Also: A corporate kidnapping.
+    False Flag: To make an operative think he is working for one individual, group, or organization, when he is in reality working for another completely different person, group, or organization.
+    Firelane: The clear area a weapon can put its shots into.
+    Hot LZ: A landing zone under hostile fire; to make a landing under fire.
+    IA: Immediate Action drill. A set series of actions preformed by a combat team to speed reaction to combat.
+    Injun Country: Enemy territory. (See also The Sharp End and The AO)
+    Insertion: Delivery of a group to its target.
+    Kill Zone: The body areas where a weapon used will kill its target. Also: The area of maximum destruction in an ambush situation.
+    Landing Hot: Landing with a damaged vehicle.
+    PZ: Pickup Zone. (see RV)
+    Roll up: To capture.
+    RV: Rendezvous point. (see PZ)
+    Sanitize: To remove all identifying marks, fingerprints, etc.
+    The Sharp End: Enemy territory. (See also Injun Country and The AO)
+    Shoes/shoemaker: False IDs and those who make them.
+    Sleeper: Potential operative kept on tap for future use.
+    Slipup List: Methodical collection of possible mistakes that might happen during a mission.
+    Technical Penetration: The use of mechanical/electrical information gathering.
+    Tiger Team: Computer experts that test system security by attempting penetration.
+    To get dirty: To be arrested, or otherwise harassed by police.
+        Ability: A function built into a Cyberdeck any Netrunner can use without a Program.
+    Attackers: Software that attacks BLACK Ice or other systems, dealing damage.
+    Black ICE: An autonomous attack program that can fry a real brain.
+    Bodyweight Suit: A suit designed for Netrunners with built in armor, Cyberdeck and capable storage, and sometimes life support functions.
+    Boosters: Software that improves a person's abilities in cyberspace.
+    Control Node: A location in virtual space with allows for the control of a real world device.
+    Cyberdeck: A computer that converts brainwaves into electrical impulses and vice versa. Without it, there's no Netrunning.
+    Defenders: Stop or reduce attacks of programs or other Netrunners.
+    Elevator: Cyberspace object allowing travel between floors.
+    Floor: Cyberspace area containing one program or virtual object.
+    Interface Plug: Cyberware that allows one to plug their brain into a machine.
+    Meat Action: Derogatory term used to refer to actions made in the physical world.
+    Meatspace: A term commonly used by Netrunners to refer to the physical world.
+    The NET: Cyberspace. Prior to the Fourth Corporate War, space and global travel was possible inside the NET. By the Time of the Red, Netrunners now have to travel to specific NET locations and jack in directly.
+    NET Action: Action taken inside the virtual world of cyberspace.
+    Program: Software able to be slotted into a Cyberdeck to enhance functionality. Divided into Boosters, Attackers, and Defenders.
+    R.A.B.I.D.S.: A particularly deadly form of black ICE spread throughout the Old NET after the death of their creator, Netrunning legend Rache Bartmoss.
+    REZ: Hit Points of Programs and Black ICE.
+    Slot: A chunk of memory in a Cyberdeck allocated to a program. Better Cyberdecks have more slots.
+    Virtuality Goggles: Goggles that overlay the cyberspace landscape onto one's field of vision.
+        ACPA: Assisted Combat Personnel Armor.
+    Acquire: To locate and successfully lock on to a target with guided or linked weapons.
+    Aperture-Based: Very low quality, referring to ACPA with no VRI (Virtual Reality Interface). Often used to make crude sexual innuendoes.
+    API: Armor piercing incendiary.
+    Boris: Very large PA, especially Russian made.
+    CHOOH-Head: Wild or undisciplined personnel or civilians (several derivations, historically connected to "beer drinking rednecks").
+    Chromer: Someone who "loves" powered armor (by killing it).
+    Critical: A bad-news term, refers to failure of equipment, or the tactical breakdown of a military scenario.
+    DMZ: Battle location.
+    Effer/Iffer: Stands for IFAR, Improved Finned Aerial Rocket, a large unguided explosive rocket measuring 2.75" in diameter.
+    Fenner: Highest tech virtual reality ACPA user interface available; sometimes used like "finer."
+    Getting Lacey: From the drug Black Lace; to start fighting in a berserk fashion.
+    Hard: Target wearing exoskeleton; any heavily-armored object or position.
+    H.E.: High explosive.
+    Kipple: DMZ rubbish, taken from Vonnegurt.
+    Mini-grin: A mini-grenade launcher.
+    Monkey: Someone using ACPA who is not well-trained to do so.
+    Nudie: Personnel targets without ACPA or exoskeleton.
+    PA: Powered Armor.
+    Padre: From compadre, refers to friends or other members of a PA team.
+    Reading: To detect/scan, similar to acquire.
+    S.S.R.: "Suit Systems Read," inspection of the various status displays in the suit's monitor area.
+    Trash: To make Trashed.
+    Trash-can: A stationary, perimeter-defense robot.
+    Trashed: ACPA: Destroyed. Persons: Messed up/dead.
+    Trooper: A PA soldier, anyone wearing PA, trained or untrained.
+        Agent Man: LEDiv.
+    Bag Man: Fixer.
+    Baked: Burned.
+    Banana Boys/Bunch: Max-Tac.
+    Bird: Aerial assistance.
+    Blitzed: Drug warp.
+    Boney: Corpse.
+    Bust: Arrest.
+    Cold One: Corpse.
+    Creep: Anyone besides a cop.
+    Crisped: Burned.
+    Dealer: Fixer.
+    Desk Jockey: White collar person.
+    Dough Boy: Money man.
+    Easy Rider: Someone who travels often.
+    Flatbacker: Hooker.
+    Fried: Insane.
+    Geeked: Killed.
+    Going Down: Going to jail.
+    Green: Unwell.
+    Grifter: Con Artist.
+    Headlining: Wanted person.
+    Holding Down: Drawing and aiming a weapon.
+    Hustler: Fixer.
+    Iced: Killed.
+    Iceman: No emotions.
+    Inkman: White collar person.
+    Jacket: File.
+    Jo/Joanna: Nobody.
+    Jumbo Bird: Heavy aerial assistance.
+    Kid: Anyone else.
+    Loser: Anyone else.
+    Lost Boy/Girl: Nobody.
+    Lowlife: Anybody else.
+    Maggot: Anyone else.
+    Packing: Carrying a weapon.
+    Part Timer: Corporate Cop/Bounty Hunter.
+    Pasta Boys: Mafia.
+    Paint Boys: Yakuza.
+    Pencil Neck: White collar person.
+    Perp: Criminal.
+    Pig: Cop.
+    Player: Big time criminal.
+    Punk: Anyone else.
+    Ripped: Assaulted.
+    Scum: Anyone else.
+    Slag: Anyone else.
+    Slime: Anyone else.
+    Smelly: Corpse.
+    Spiked: Killed.
+    Sprung: Blown cover/Escaped custody with outside help.
+    Sticks: Beat Cops.
+    Stiff: Corpse.
+    Suit: Corporate person/Straight man.
+    The Man: Immediate superior.
+    Torched: Burned.
+    Tough Guy: Muscle.
+    Trashed: Assaulted.
+    Twisted: Drug warp.
+    Wasted: Killed.
+    Waxed: Killed.
+    Whacked: Killed.
+    Wise Guys: Mafia.
+    Worm: Anyone else.
